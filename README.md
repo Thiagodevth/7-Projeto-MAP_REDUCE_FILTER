@@ -1,6 +1,9 @@
 # 7-Projeto-MAP_REDUCE_FILTER
 
-projeto onde usei as seguintes tecnologias, da uma conferida 
+projeto onde pego cada fução de array e simplismente cada um vai fazer sua função,
+o ForEach vai aparti do ARRAY vai iterar, o MAP vai mapear o ARRAY, o FILTER vai filtrar, o REDUCE vai reduzir, simplismente fazer um resumo, 
+nessa tela os botões iram fazer exatamente oq essas funções exercen, mostrar na tela todo array, dar desconto,fazer o calculo total, filtrar os alimentos veganos,
+as seguintes tecnologias, da uma conferida 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js">
