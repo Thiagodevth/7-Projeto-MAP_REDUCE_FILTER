@@ -1,9 +1,11 @@
 # 7-Projeto-MAP_REDUCE_FILTER
 
-projeto onde pego cada fução de array e simplismente cada um vai fazer sua função,
+Projeto onde pego cada fução de array e simplismente cada um vai fazer sua função,
 o ForEach vai aparti do ARRAY vai iterar, o MAP vai mapear o ARRAY, o FILTER vai filtrar, o REDUCE vai reduzir, simplismente fazer um resumo, 
 nessa tela os botões iram fazer exatamente oq essas funções exercem, mostrar na tela todo os itens, dar desconto nos itens,fazer o calculo total dos itens, filtrar os alimentos veganos,
 as seguintes tecnologias, da uma conferida 
+<br>
+<br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
 <br>
