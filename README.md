@@ -6,8 +6,10 @@ projeto onde usei as seguintes tecnologias, da uma conferida
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js">
 <br>
 <br>
+<img src="./img/Captura de Tela (26).png">
 <br>
+<img src="./img/Captura de Tela (27).png">
 <br>
-<img src="./assets/Captura de Tela (1).png">
+<img src="./img/Captura de Tela (28).png">
 <br>
-<img src="./assets/Captura de Tela (2).png">
+<img src="./img/Captura de Tela (29).png">
