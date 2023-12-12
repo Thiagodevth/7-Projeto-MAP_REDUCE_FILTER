@@ -1,9 +1,8 @@
 # 7-Proj-MAP/REDU/FILT
 
 Projeto onde pego cada fução de array e simplismente cada um vai fazer sua função,
-o ForEach vai aparti do ARRAY vai iterar, o MAP vai mapear o ARRAY, o FILTER vai filtrar, o REDUCE vai reduzir, simplismente fazer um resumo, 
-nessa tela os botões iram fazer exatamente oq essas funções exercem, mostrar na tela todo os itens, dar desconto nos itens,fazer o calculo total dos itens, filtrar os alimentos veganos,
-as seguintes tecnologias, da uma conferida 
+o ForEach vai iterar o ARRAY , o MAP vai mapear, o FILTER vai filtrar, o REDUCE vai reduzir, simplismente fazer um calculo, 
+nessa tela os botões iram fazer exatamente oq essas funções exercem, mostrar na tela todo os itens, dar desconto nos itens,fazer o calculo total dos itens, filtrar os alimentos veganos, tambem trabalhei a parte de responsividade neste projeto e  usei as seguintes tecnologias... 
 <br>
 <br>
 <br>
@@ -21,3 +20,7 @@ as seguintes tecnologias, da uma conferida
 <img src="./img/Captura de Tela (28).png">
 <br>
 <img src="./img/Captura de Tela (29).png">
+<br>
+<img src="./img/Captura de Tela (32).png">
+<br>
+<img src="./img/Captura de Tela (33).png">
