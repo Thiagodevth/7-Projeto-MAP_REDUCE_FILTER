@@ -1,4 +1,4 @@
-# 7-Proj-MAP/REDU/FILT
+# Projeto - FOREACH_MAP/REDUCE/FILTER
 
 Projeto onde pego cada fução de array e simplismente cada um vai fazer sua função,
 o ForEach vai iterar o ARRAY , o MAP vai mapear, o FILTER vai filtrar, o REDUCE vai reduzir, simplismente fazer um calculo, 
